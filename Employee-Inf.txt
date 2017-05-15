@@ -1,0 +1,18 @@
+﻿% 
+% 1. Title: Employee-INF-2016 Dataset
+% 2. Donor: Asia L. Jabar   
+% 3. Dataset Name: Employee Infomation 1000 Dataset 
+% 4. Citations: Detail of the dataset in two papers of article
+
+              a. Asia L. Jabar, Tarik A. Rashid , Combining Fuzzy Rough Set with Salient Features for HRM Classification. CIT/IUCC/DASC/PICom 2015: 244-251.(2015).
+
+              b. Tarik A. Rashid, Asia L. Jabar, Improvement on predicting employee behaviour through intelligent techniques. IET Networks 5(5): 136-142 (2016).
+
+
+Employee-Inf-2016 dataset contains 29 features with the class. these 29 features all about employees information and behaviour that companies depend on for deciding about the employees future working
+
+these 29 features contained personal information, educational information, working background information, besides of the class that contain the decision (recommend) if the employee deserve the recommendation for promotion or not.
+
+I have collected this dataset in the communication and construction companies in Kurdistan\Iraq. It will be useful with the classification model techniques in data mining.
+
+
